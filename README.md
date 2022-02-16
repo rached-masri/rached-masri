@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Website, Github Projects**
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Algorithms & Data Structure**
 
 - 👯 I’m looking to collaborate on **Projects**
 
