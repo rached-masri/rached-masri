@@ -1,4 +1,4 @@
-<h3 align="center">A passionate QA Tester from Tunisia</h3>
+<h3 align="center">QA Tester</h3>
 
 - 🔭 I’m currently working on **My Website & Github Projects**
 
