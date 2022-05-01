@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rached Masri</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">QA Tester</h3>
 
 - 🔭 I’m currently working on **My Website, Github Projects**
 
-- 🌱 I’m currently learning **Algorithms & Data Structure**
+- 🌱 I’m currently learning **Test Automation**
 
 - 👯 I’m looking to collaborate on **Projects**
 
